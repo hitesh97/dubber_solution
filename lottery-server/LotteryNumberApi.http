@@ -1,0 +1,6 @@
+@LotteryNumberApi_HostAddress = http://localhost:5204
+
+GET {{LotteryNumberApi_HostAddress}}/api/lottery/generate
+Accept: application/json
+
+###
